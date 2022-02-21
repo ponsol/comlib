@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/sjk/laptopdir/course/embedded/esp32/greenh/comlib/server/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/sjk/laptopdir/course/embedded/esp32/greenh/comlib/server/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/sjk/laptopdir/course/embedded/esp32/greenh/comlib/server/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/sjk/laptopdir/course/embedded/esp32/greenh/comlib/server/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/sjk/laptopdir/course/embedded/esp32/greenh/comlib/server/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/sjk/laptopdir/course/embedded/esp32/greenh/comlib/server/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/sjk/laptopdir/course/embedded/esp32/greenh/comlib/server/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/sjk/laptopdir/course/embedded/esp32/greenh/comlib/server/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/sjk/laptopdir/course/embedded/esp32/greenh/comlib/server/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/sjk/laptopdir/course/embedded/esp32/greenh/comlib/server/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

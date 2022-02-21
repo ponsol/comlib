@@ -1,0 +1,2 @@
+/home/sjk/.espressif/tools/xtensa-esp32-elf/esp-2021r2-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libmain.a CMakeFiles/__idf_main.dir/main.c.obj CMakeFiles/__idf_main.dir/home/sjk/laptopdir/course/embedded/esp32/greenh/comlib/lib/mycom/mycom.c.obj CMakeFiles/__idf_main.dir/home/sjk/laptopdir/course/embedded/esp32/greenh/comlib/lib/udp/udp_com.c.obj
+/home/sjk/.espressif/tools/xtensa-esp32-elf/esp-2021r2-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libmain.a

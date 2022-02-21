@@ -1,0 +1,15 @@
+
+
+-------------------------------------------------------
+A generic com-link API for linking different devices. 
+-------------------------------------------------------
+
+Written by Solai Jeyakumar
+jeyaks@gmail.com
+
+This package provides comlib, a generic api  for communicating
+with  two devices using esp-idf.  The underlying communication 
+link could be UDP, Websocket,  UART, SPI. 
+
+The "server" and "client" directories provide examples for using
+this library.
